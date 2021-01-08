@@ -33,7 +33,6 @@ jobs:
           user: RemeJuan
           config_timezone: "Africa/Johannesburg"
           template: classic
-          plugin_pagespeed: true
           plugin_lines: true
           plugin_traffic: true
           plugin_habits: true
@@ -41,19 +40,15 @@ jobs:
           plugin_languages: true
           plugin_languages_ignored: "html"
           plugin_followup: true
-          plugin_music: true
-          plugin_music_provider: "apple"
-          plugin_music_mode: "recent"
           plugin_posts: true
           plugin_posts_source: "dev.to"
-          plugin_posts_user: "@remejuan" 
+          plugin_posts_user: "remejuan" 
           plugin_isocalendar: true
           plugin_gists: true
           plugin_topics: true
           plugin_projects: true
-          plugin_tweets: true
+          plugin_tweets: false
           plugin_tweets_user: "RemeJuan" 
           plugin_tweets_token: "${{ secrets.TWIT_BEARER }}"  
           plugin_tweets_limit: 4
           plugin_stars: true
-          plugin_stargazers: true

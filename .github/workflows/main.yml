@@ -29,7 +29,7 @@ jobs:
           committer_token: "${{ secrets.GITHUB_TOKEN }}" 
           user: RemeJuan
           config_timezone: "Africa/Johannesburg"
-          template: repository
+          template: classic
           plugin_pagespeed: true
           plugin_lines: true
           plugin_traffic: true

@@ -6,3 +6,5 @@
 [Website](https://www.remelehane.dev)
 
 [![Reme's Github Stats](https://github-readme-stats.vercel.app/api?username=RemeJuan&count_private=true&theme=default&show_icons=true)](https://github.com/RemeJuan)
+
+![Metrics](https://raw.githubusercontent.com/RemeJuan/RemeJuan/master/github-metrics.svg)

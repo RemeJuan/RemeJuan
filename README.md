@@ -1,6 +1,6 @@
 HI there, names Reme and I spend my working hours working on [Flutter](https://flutter.dev) projects, before that I spent many years working with [ReactJS](https://reactjs.org). In my non working hours I enjoy Mountain Biking.
 
-[Website](https://www.remelehane.dev) | [LinkedIn](https://www.linkedin.com/in/remelehane/) | [Twitter](https://twitter.com/RemeJuan) | [Blog](https://medium.com/@reme.lehane) | [Instagram](https://www.instagram.com/rem_jlh/)
+[Website](https://www.remelehane.dev) | [LinkedIn](https://www.linkedin.com/in/remelehane/) | [Twitter](https://twitter.com/RemeJuan) | [Blog](https://medium.com/@reme.lehane)
 
 Some recent articles:
 - [React to Flutter: One Developers Journey — Part 1](https://itnext.io/react-to-flutter-one-developers-journey-part-1-f101443bff82)

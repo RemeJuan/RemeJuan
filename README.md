@@ -14,3 +14,7 @@ Some recent articles:
 [![Reme's GitHUb stats](https://github-readme-stats.vercel.app/api/wakatime?username=RemeJuan&layout=compact&theme=radical)](https://wakatime.com/@RemeJuan)
 
 [![Reme's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemeJuan&layout=compact&theme=radical&hide=html,less,css,scss,sass&langs_count=3)](https://github.com/RemeJuan/github-readme-stats)
+
+[![Reme's Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=remejuan)](https://profile.codersrank.io/user/remejuan)
+
+

@@ -1,8 +1,11 @@
-HI there, names Reme and I spend my working hours working on [Flutter](https://flutter.dev) projects, before that I spent many years working with [ReactJS](https://reactjs.org). In my non working hours I enjoy Mountain Biking.
+Hi there, names Reme and I spend my working hours on [Flutter](https://flutter.dev) projects and before that I spent many years working with [ReactJS](https://reactjs.org).
 
-[Website](https://www.remelehane.dev) | [LinkedIn](https://www.linkedin.com/in/remelehane/) | [Twitter](https://twitter.com/RemeJuan) | [Blog](https://medium.com/@reme.lehane)
+Outside of work I really enjoy Mountain Biking, Trail Running, Hiking and in general just being outdoors.
+
+[Website](https://www.remelehane.dev) | [LinkedIn](https://www.linkedin.com/in/remelehane/) | [Twitter](https://twitter.com/RemeJuan) | [Blog](https://remelehane.medium.com/)
 
 Some recent articles:
+- [Working from home works for me…](https://remelehane.medium.com/working-from-home-it-works-for-me-2904c9edc0a4)
 - [React to Flutter: One Developers Journey — Part 1](https://itnext.io/react-to-flutter-one-developers-journey-part-1-f101443bff82)
 - [React to Flutter: One Developers Journey — Part 2](https://itnext.io/react-to-flutter-one-developers-journey-part-2-10ac6919f580)
 

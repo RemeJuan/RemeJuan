@@ -18,6 +18,11 @@ Outside of work I really enjoy Mountain Biking, Trail Running, Hiking and in gen
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Web: Should I use it? (Part 1 — SEO)](https://itnext.io/flutter-web-should-i-use-it-part-1-seo-842d87ff9d28?source=rss-3ee6df9873b3------2)
+- [IFTTT filters are actually quite capable](https://medium.com/geekculture/ifttt-filters-are-actually-quite-capable-29fdd2fe122f?source=rss-3ee6df9873b3------2)
+- [Developing on an M1 Mac (Flutter)](https://remelehane.medium.com/developing-on-an-m1-mac-flutter-563c8dcc28f?source=rss-3ee6df9873b3------2)
+- [Working from home works for me…](https://remelehane.medium.com/working-from-home-it-works-for-me-2904c9edc0a4?source=rss-3ee6df9873b3------2)
+- [React to Flutter: One Developers Journey — Part 2](https://itnext.io/react-to-flutter-one-developers-journey-part-2-10ac6919f580?source=rss-3ee6df9873b3------2)
 <!-- BLOG-POST-LIST:END -->
 
 - [Flutter Web: Should I use it? (Part 1 — SEO)](https://itnext.io/flutter-web-should-i-use-it-part-1-seo-842d87ff9d28)

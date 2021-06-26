@@ -1,4 +1,4 @@
-name: Generate Metrics SVG
+name: Update Readme
 
 # Controls when the action will run. 
 on:

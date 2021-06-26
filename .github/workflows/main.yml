@@ -25,5 +25,6 @@ jobs:
       - name: Update this repo's README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
+          filter_comments: "medium"
           gh_token: "${{ secrets.PAT }}"
           feed_list: "https://remelehane.medium.com/feed"

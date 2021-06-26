@@ -22,33 +22,7 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      
-      - name: GitHub metrics as SVG image
-        # You may pin to the exact commit or the version.
-        # uses: lowlighter/metrics@db876713ebb058ea669c16708e1a6142ae50d5e9
-        uses: lowlighter/metrics@v3.1
-        with:
-          token: "${{ secrets.PAT }}"
-          committer_token: "${{ secrets.GITHUB_TOKEN }}" 
-          user: RemeJuan
-          config_timezone: "Africa/Johannesburg"
-          template: classic
-          plugin_lines: true
-          plugin_traffic: true
-          plugin_habits: true
-          plugin_habits_charts: true
-          plugin_languages: true
-          plugin_languages_ignored: "html"
-          plugin_followup: true
-          plugin_posts: true
-          plugin_posts_source: "dev.to"
-          plugin_posts_user: "remejuan" 
-          plugin_isocalendar: true
-          plugin_gists: true
-          plugin_topics: true
-          plugin_projects: true
-          plugin_tweets: false
-          plugin_tweets_user: "RemeJuan" 
-          plugin_tweets_token: "${{ secrets.TWIT_BEARER }}"  
-          plugin_tweets_limit: 4
-          plugin_stars: true
+      - name: Update this repo's README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@1.5.6
+          with:
+            feed_list: "https://remelehane.medium.com/feed"

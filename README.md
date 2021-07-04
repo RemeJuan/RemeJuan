@@ -16,6 +16,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RemeJuan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://remelehane.medium.com/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/remejuan)
+[![Hashnode](https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)](https://node.remelehane.dev)
 
 <h2>Some recent articles:</h2>
 

@@ -21,11 +21,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Web: Should I use it? (Part 3— Other considerations)](https://node.remelehane.dev/flutter-web-should-i-use-it-part-3-other-considerations)
-- [Flutter Web: Should I use it? (Part 2— Performance)](https://node.remelehane.dev/flutter-web-should-i-use-it-part-2-performance-d801d122fc3e)
-- [Flutter Web: Should I use it? (Part 1 — SEO)](https://node.remelehane.dev/flutter-web-should-i-use-it-part-1-seo-842d87ff9d28)
-- [IFTTT filters are actually quite capable](https://node.remelehane.dev/ifttt-filters-are-actually-quite-capable-29fdd2fe122f)
-- [Developing on an M1 Mac (Flutter)](https://node.remelehane.dev/developing-on-an-m1-mac-flutter-563c8dcc28f)
+- [Flutter Web: Should I use it? (Part 3— Other considerations)](https://blog.remelehane.dev/flutter-web-should-i-use-it-part-3-other-considerations)
+- [Flutter Web: Should I use it? (Part 2— Performance)](https://blog.remelehane.dev/flutter-web-should-i-use-it-part-2-performance-d801d122fc3e)
+- [Flutter Web: Should I use it? (Part 1 — SEO)](https://blog.remelehane.dev/flutter-web-should-i-use-it-part-1-seo-842d87ff9d28)
+- [IFTTT filters are actually quite capable](https://blog.remelehane.dev/ifttt-filters-are-actually-quite-capable-29fdd2fe122f)
+- [Developing on an M1 Mac (Flutter)](https://blog.remelehane.dev/developing-on-an-m1-mac-flutter-563c8dcc28f)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

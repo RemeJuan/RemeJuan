@@ -21,11 +21,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Unit Testing with GitHub Actions](https://blog.remelehane.dev/automated-unit-testing-with-github-actions)
 - [Learning, by solving a “problem”](https://blog.remelehane.dev/learning-by-solving-a-problem)
 - [Why choose Flutter?](https://blog.remelehane.dev/why-choose-flutter)
 - [Changing your debugging browser for Flutter (MacOS)](https://blog.remelehane.dev/changing-your-debugging-browser-for-flutter-macos)
 - [My essential tools as a Flutter Developer](https://blog.remelehane.dev/my-essential-tools-as-a-flutter-developer)
-- [Unit testing DateTime.now() with the help of Dart extensions](https://blog.remelehane.dev/unit-testing-datetimenow-with-the-help-of-dart-extensions)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

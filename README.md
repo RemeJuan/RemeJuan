@@ -21,11 +21,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekend App: 3D Pring Cost Calculator](https://blog.remelehane.dev/weekend-app-3d-pring-cost-calculator)
 - [Automated Unit Testing with GitHub Actions](https://blog.remelehane.dev/automated-unit-testing-with-github-actions)
 - [Learning, by solving a “problem”](https://blog.remelehane.dev/learning-by-solving-a-problem)
 - [Why choose Flutter?](https://blog.remelehane.dev/why-choose-flutter)
 - [Changing your debugging browser for Flutter (MacOS)](https://blog.remelehane.dev/changing-your-debugging-browser-for-flutter-macos)
-- [My essential tools as a Flutter Developer](https://blog.remelehane.dev/my-essential-tools-as-a-flutter-developer)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

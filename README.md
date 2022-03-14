@@ -8,8 +8,6 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 [![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemeJuan&count_private=true&show_icons=true)](https://wakatime.com/@RemeJuan)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/remelehane)
-
 <h2>Let's connect:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remelehane/)

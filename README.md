@@ -19,7 +19,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Up your testing game](https://blog.remelehane.dev/up-your-testing-game)
+- [Flutter: Up your testing game](https://blog.remelehane.dev/flutter-up-your-testing-game)
 - [Weekend App: 3D Pring Cost Calculator](https://blog.remelehane.dev/weekend-app-3d-pring-cost-calculator)
 - [Automated Unit Testing with GitHub Actions](https://blog.remelehane.dev/automated-unit-testing-with-github-actions)
 - [Learning, by solving a “problem”](https://blog.remelehane.dev/learning-by-solving-a-problem)

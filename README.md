@@ -8,6 +8,20 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 [![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemeJuan&count_private=true&show_icons=true)](https://wakatime.com/@RemeJuan)
 
+<h2>Current Side Projects:</h2>
+
+- **3D Print Cost Calculator:**
+  <br/>
+  [App](https://printcalc.codemagic.app) [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
+  <br/>
+  A small Flutter Web application for estiamting the cost of 3D Printed items.
+  <br/>
+  <br/>
+- **Playoffs Score Card:**
+  <br/>[App](https://playoffsscorecard.app) [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
+  <br/>
+  A simple score card and progress tracker for teh [F45 Playoffs](https://www.f45playoffs.com/)
+  <br/>
 <h2>Let's connect:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remelehane/)

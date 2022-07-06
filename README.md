@@ -20,7 +20,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 - **Playoffs Score Card:**
   <br/>[App](https://playoffsscorecard.app) [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
   <br/>
-  A simple score card and progress tracker for teh [F45 Playoffs](https://www.f45playoffs.com/)
+  A simple score card and progress tracker for the [F45 Playoffs](https://www.f45playoffs.com/)
   <br/>
 <h2>Let's connect:</h2>
 

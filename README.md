@@ -10,17 +10,31 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 <h2>Current Side Projects:</h2>
 
+- **Calorie Diff:**
+  <br/>
+  [Website](https://caloriediff.app) | [Repo](https://github.com/RemeJuan/calorie_diff)
+  <br/>
+  A simple application to easily display the Burned and Consumned calories as well as calculate the difference, using data from AppleHealth.
+  <br/>
+  Tech: [Flutter](https://flutter.dev), [Riverpod](https://riverpod.dev)
+  <br/>
+  <br/>
+  
 - **3D Print Cost Calculator:**
   <br/>
-  [App](https://printcalc.codemagic.app) [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
+  [App](https://printcalc.codemagic.app) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
   <br/>
   A small Flutter Web application for estiamting the cost of 3D Printed items.
   <br/>
+  Tech: [Flutter](https://flutter.dev)
+  <br/>
   <br/>
 - **Playoffs Score Card:**
-  <br/>[App](https://playoffsscorecard.app) [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
+  <br/>[App](https://playoffsscorecard.app) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
   <br/>
   A simple score card and progress tracker for the [F45 Playoffs](https://www.f45playoffs.com/)
+  <br/>
+  Tech: [Flutter](https://flutter.dev), [Riverpod](https://riverpod.dev)
   <br/>
 <h2>Let's connect:</h2>
 

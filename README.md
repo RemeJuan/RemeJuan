@@ -12,7 +12,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 - **Calorie Diff:**
   <br/>
-  [Website](https://caloriediff.app) | [Repo](https://github.com/RemeJuan/calorie_diff)
+  [Website](https://caloriediff.app) | [AppStore](https://apps.apple.com/za/app/calorie-diff/id6444097631) | [Repo](https://github.com/RemeJuan/calorie_diff)
   <br/>
   A simple application to easily display the Burned and Consumned calories as well as calculate the difference, using data from AppleHealth.
   <br/>
@@ -22,7 +22,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
   
 - **3D Print Cost Calculator:**
   <br/>
-  [App](https://printcalc.codemagic.app) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
+  [Web App](https://3dpcc.pages.dev) | [AppStore](https://apps.apple.com/za/app/3d-printer-cost-calculator/id6444106268) | [PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
   <br/>
   A small Flutter Web application for estiamting the cost of 3D Printed items.
   <br/>
@@ -30,7 +30,8 @@ You can take a look at my [website](https://remelehane.dev) for more details
   <br/>
   <br/>
 - **Playoffs Score Card:**
-  <br/>[App](https://playoffsscorecard.app) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
+  <br/>
+  [Web App](https://playoffsscorecard.app) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
   <br/>
   A simple score card and progress tracker for the [F45 Playoffs](https://www.f45playoffs.com/)
   <br/>

@@ -31,7 +31,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
   <br/>
 - **Playoffs Score Card:**
   <br/>
-  [Web App](https://playoffsscorecard.app) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
+  [Web App](https://playoffsscorecard.app) | [AppStore](https://apps.apple.com/us/app/playoffs-score-card/id6444212103) | [PlayStore](https://play.google.com/store/apps/details?id=com.playoffs_score_card) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
   <br/>
   A simple score card and progress tracker for the [F45 Playoffs](https://www.f45playoffs.com/)
   <br/>

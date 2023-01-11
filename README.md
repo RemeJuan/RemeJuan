@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub CoPilot one year later...](https://blog.remelehane.dev/github-copilot-one-year-later)
 - [DIY node_modules cache for Docker in your CI](https://blog.remelehane.dev/diy-nodemodules-cache-for-docker-in-your-ci)
 - [Flutter: Data Testing](https://blog.remelehane.dev/flutter-data-testing)
 - [Widget testing: Dealing with Renderflex Overflow Errors](https://blog.remelehane.dev/widget-testing-dealing-with-renderflex-overflow-errors)
 - [Flutter: Up your testing game](https://blog.remelehane.dev/flutter-up-your-testing-game)
-- [Weekend App: 3D Pring Cost Calculator](https://blog.remelehane.dev/weekend-app-3d-pring-cost-calculator)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

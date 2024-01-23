@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Flutter for Mobile Application Development](https://blog.remelehane.dev/getting-started-with-flutter-for-mobile-application-development)
 - [Firebase vs Device Time](https://blog.remelehane.dev/firebase-vs-device-time)
+- [Flutter State Management: Exploring RiverPod and BLoC](https://blog.remelehane.dev/flutter-state-management-exploring-riverpod-and-bloc)
 - [Getting creative with Shorebird](https://blog.remelehane.dev/getting-creative-with-shorebird)
-- [The Power of Flutter for Web Development: Should You Use it?](https://blog.remelehane.dev/the-power-of-flutter-for-web-development-should-you-use-it)
-- [Deploying a Flutter Application on Azure Pipelines: A Comprehensive Guide](https://blog.remelehane.dev/deploying-a-flutter-application-on-azure-pipelines-a-comprehensive-guide)
-- [Essential Tools for Flutter Developers: Boosting Productivity and Efficiency](https://blog.remelehane.dev/essential-tools-for-flutter-developers-boosting-productivity-and-efficiency)
+- [Deploying Flutter Application with Github Actions (PlayStore)](https://blog.remelehane.dev/deploying-flutter-application-with-github-actions-playstore)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

@@ -26,4 +26,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
           gh_token: "${{ secrets.PAT }}"
-          feed_list: "https://node.remelehane.dev/rss.xml"
+          feed_list: "https://remelehane.dev/rss.xml"

@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Navigation and Routing in Flutter](https://remelehane.dev/introduction-to-navigation-and-routing-in-flutter)
-- [Getting Started with Flutter for Mobile Application Development](https://remelehane.dev/getting-started-with-flutter-for-mobile-application-development)
-- [Firebase vs Device Time](https://remelehane.dev/firebase-vs-device-time)
-- [Flutter State Management: Exploring RiverPod and BLoC](https://remelehane.dev/flutter-state-management-exploring-riverpod-and-bloc)
-- [Getting creative with Shorebird](https://remelehane.dev/getting-creative-with-shorebird)
+- [Testing](https://remelehane.dev/testing)
+- [ProviderScope](https://remelehane.dev/providerscope)
+- [Accessing the Providers](https://remelehane.dev/accessing-the-providers)
+- [Riverpod Extensions](https://remelehane.dev/riverpod-extensions)
+- [What is Riverpod](https://remelehane.dev/what-is-riverpod)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing](https://remelehane.dev/testing)
-- [ProviderScope](https://remelehane.dev/providerscope)
-- [Accessing the Providers](https://remelehane.dev/accessing-the-providers)
-- [Riverpod Extensions](https://remelehane.dev/riverpod-extensions)
-- [What is Riverpod](https://remelehane.dev/what-is-riverpod)
+- [Why Choose Riverpod? - Testing](https://remelehane.dev/why-choose-riverpod-testing)
+- [Why Choose Riverpod? - ProviderScope](https://remelehane.dev/why-choose-riverpod-providerscope)
+- [Why Choose Riverpod? - Accessing the Providers](https://remelehane.dev/why-choose-riverpod-accessing-the-providers)
+- [Why Choose Riverpod? - Riverpod Extensions](https://remelehane.dev/why-choose-riverpod-riverpod-extensions)
+- [Why Choose Riverpod? - What is Riverpod](https://remelehane.dev/why-choose-riverpod-what-is-riverpod)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

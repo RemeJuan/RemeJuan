@@ -22,7 +22,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
   
 - **3D Print Cost Calculator:**
   <br/>
-  [Web App](https://3dpcc.pages.dev) | [AppStore](https://apps.apple.com/za/app/3d-printer-cost-calculator/id6444106268) | [PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
+  [AppStore](https://apps.apple.com/za/app/3d-printer-cost-calculator/id6444106268) | [PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
   <br/>
   A small Flutter Web application for estiamting the cost of 3D Printed items.
   <br/>
@@ -31,7 +31,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
   <br/>
 - **Playoffs Score Card:**
   <br/>
-  [Web App](https://playoffsscorecard.app) | [AppStore](https://apps.apple.com/us/app/playoffs-score-card/id6444212103) | [PlayStore](https://play.google.com/store/apps/details?id=com.playoffs_score_card) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
+  [AppStore](https://apps.apple.com/us/app/playoffs-score-card/id6444212103) | [PlayStore](https://play.google.com/store/apps/details?id=com.playoffs_score_card) | [Repo](https://github.com/RemeJuan/playoffs_score_tracker)
   <br/>
   A simple score card and progress tracker for the [F45 Playoffs](https://www.f45playoffs.com/)
   <br/>
@@ -75,7 +75,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 <h2>Dev Environment:</h2>
 
-[![MacBooc Pro Mq 2021](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![MacBooc Pro M1 2021](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![InteliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()

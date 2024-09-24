@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter: Hero Animations](https://remelehane.dev/flutter-hero-animations)
 - [Our Experience with CodeRabbit: A Game-Changer in Automated Code Review](https://remelehane.dev/our-experience-with-coderabbit-a-game-changer-in-automated-code-review)
 - [My Leadership Growth Reads](https://remelehane.dev/my-leadership-growth-reads)
 - [Why Choose Riverpod? - Testing](https://remelehane.dev/why-choose-riverpod-testing)
 - [Why Choose Riverpod? - ProviderScope](https://remelehane.dev/why-choose-riverpod-providerscope)
-- [Why Choose Riverpod? - Accessing the Providers](https://remelehane.dev/why-choose-riverpod-accessing-the-providers)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

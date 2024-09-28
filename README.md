@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js: Static Site Generation (SSG) with Incremental Static Regeneration (ISR)](https://remelehane.dev/nextjs-static-site-generation-ssg-with-incremental-static-regeneration-isr)
 - [React: leveraging custom hooks to extract reusable logic](https://remelehane.dev/react-leveraging-custom-hooks-to-extract-reusable-logic)
 - [Flutter: Hero Animations](https://remelehane.dev/flutter-hero-animations)
 - [Our Experience with CodeRabbit: A Game-Changer in Automated Code Review](https://remelehane.dev/our-experience-with-coderabbit-a-game-changer-in-automated-code-review)
 - [My Leadership Growth Reads](https://remelehane.dev/my-leadership-growth-reads)
-- [Why Choose Riverpod? - Testing](https://remelehane.dev/why-choose-riverpod-testing)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

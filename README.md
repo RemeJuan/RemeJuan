@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://remelehane.dev/understanding-incremental-static-generation-in-nextjs-a-practical-guide)
 - [Flutter trick: using AnimatedBuilder for efficient animations.](https://remelehane.dev/flutter-trick-using-animatedbuilder-for-efficient-animations)
 - [React: Optimizing Forms with Controlled and Uncontrolled Components](https://remelehane.dev/react-optimizing-forms-with-controlled-and-uncontrolled-components)
 - [Next.js: Pre-fetching Data with getServerSideProps for SEO Benefits.](https://remelehane.dev/nextjs-pre-fetching-data-with-getserversideprops-for-seo-benefits)
 - [React: Debouncing input with useEffect](https://remelehane.dev/react-debouncing-input-with-useeffect)
-- [Flutter trick: using LayoutBuilder for responsive designs](https://remelehane.dev/flutter-trick-using-layoutbuilder-for-responsive-designs)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

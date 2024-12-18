@@ -48,11 +48,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Common Project Pitfalls in Software Development](https://remelehane.dev/overcoming-common-project-pitfalls-in-software-development)
 - [Using useReducer for Complex State Logic](https://remelehane.dev/using-usereducer-for-complex-state-logic)
 - [Offline file uploading in Flutter](https://remelehane.dev/offline-file-uploading-in-flutter)
 - [Next.js: Dynamic Routing with API Integration.](https://remelehane.dev/nextjs-dynamic-routing-with-api-integration)
 - [Effective Strategies for Managing Software Engineering Teams](https://remelehane.dev/effective-strategies-for-managing-software-engineering-teams)
-- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://remelehane.dev/understanding-incremental-static-generation-in-nextjs-a-practical-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

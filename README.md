@@ -82,6 +82,8 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 <h2>Misc:</h2>
 
+![](https://green-wall.leoku.dev/api/og/share/RemeJuan)
+
 [![Reme's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RemeJuan&layout=compact)](https://wakatime.com/@RemeJuan)
 
 

@@ -47,11 +47,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically Render Components Based on Configuration](https://remelehane.dev/dynamically-render-components-based-on-configuration)
 - [Flutter skill: using CustomPainter for drawing custom shapes and graphics.](https://remelehane.dev/flutter-skill-using-custompainter-for-drawing-custom-shapes-and-graphics)
 - [Next.js: Optimizing Images with the next/image Component.](https://remelehane.dev/nextjs-optimizing-images-with-the-nextimage-component)
 - [Overcoming Common Project Pitfalls in Software Development](https://remelehane.dev/overcoming-common-project-pitfalls-in-software-development)
 - [Using useReducer for Complex State Logic](https://remelehane.dev/using-usereducer-for-complex-state-logic)
-- [Offline file uploading in Flutter](https://remelehane.dev/offline-file-uploading-in-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

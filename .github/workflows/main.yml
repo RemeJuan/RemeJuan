@@ -27,3 +27,4 @@ jobs:
         with:
           gh_token: "${{ secrets.PAT }}"
           feed_list: "https://remejuan.substack.com/feed"
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"

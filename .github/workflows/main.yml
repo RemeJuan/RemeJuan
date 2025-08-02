@@ -23,7 +23,7 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: Update this repo's README with latest blog posts
-        uses: gautamkrishnar/blog-post-workflow
+        uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           gh_token: "${{ secrets.PAT }}"
           feed_list: "https://remejuan.substack.com/feed"

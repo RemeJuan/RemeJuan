@@ -26,5 +26,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           gh_token: "${{ secrets.PAT }}"
-          feed_list: "https://remejuan.substack.com/feed"
+          feed_list: "https://www.rssground.com/p/SubstackReme"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"

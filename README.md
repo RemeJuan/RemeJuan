@@ -34,7 +34,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remelehane/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://remelehane.medium.com/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://remejuan.substack.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=square)](https://remejuan.substack.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/remejuan)
 [![Hashnode](https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)](https://remelehane.dev)
 
@@ -65,16 +65,16 @@ You can take a look at my [website](https://remelehane.dev) for more details
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff&style=flat)](#)
+[![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff&style=square)](#)
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)]()
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=flat)](#)
 
 [![Codemagic](https://img.shields.io/badge/Codemagic-0051FF?logo=Codemagic&logoColor=fff&style=flat)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)](#)
 
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=flat)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=flat)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=flat)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](#)
 
 <h2>Dev Environment:</h2>
 

@@ -41,11 +41,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Subtle Art of Asking the Second Question](https://remejuan.substack.com/p/the-subtle-art-of-asking-the-second)
 - [The Problem with Perfect Engineers](https://remejuan.substack.com/p/how-to-build-teams-that-ask-questions)
 - [How to Build Teams That Ask Questions Out Loud](https://remejuan.substack.com/p/how-to-build-teams-that-ask-questions)
 - [The Tradeoffs of Technical Ownership](https://remejuan.substack.com/p/the-tradeoffs-of-technical-ownership)
 - [Why Senior Engineers Don’t Need All the Answers](https://remejuan.substack.com/p/why-senior-engineers-dont-need-all)
-- [How to Create Clear Decision Logs Without Slowing Down](https://remejuan.substack.com/p/how-to-create-clear-decision-logs)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

@@ -41,11 +41,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [When Not Having the Answer Is the Answer](https://remejuan.substack.com/p/when-not-having-the-answer-is-the)
 - [The Courage to Let Silence Do the Work](https://remejuan.substack.com/p/the-courage-to-let-silence-do-the)
 - [Guiding Without Owning](https://remejuan.substack.com/p/guiding-without-owning)
 - [How to Listen Without Fixing](https://remejuan.substack.com/p/how-to-listen-without-fixing)
 - [The Subtle Art of Asking the Second Question](https://remejuan.substack.com/p/the-subtle-art-of-asking-the-second)
-- [The Problem with Perfect Engineers](https://remejuan.substack.com/p/how-to-build-teams-that-ask-questions)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

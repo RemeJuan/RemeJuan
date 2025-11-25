@@ -9,7 +9,8 @@ You can take a look at my [website](https://remelehane.dev) for more details
 [![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemeJuan&count_private=true&show_icons=true)](https://wakatime.com/@RemeJuan)
 
 <h2>Current Side Projects:</h2>  
-- **3D Print Cost Calculator:**
+
+**3D Print Cost Calculator:**
   <br/>
   [AppStore](https://apps.apple.com/za/app/3d-printer-cost-calculator/id6444106268) | [PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
   <br/>

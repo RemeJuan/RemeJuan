@@ -12,7 +12,7 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 **3D Print Cost Calculator:**
   <br/>
-  [AppStore](https://apps.apple.com/za/app/3d-printer-cost-calculator/id6444106268) | [PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
+[PlayStore](https://play.google.com/store/apps/details?id=com.threed_print_calculator) | [Repo](https://github.com/RemeJuan/threed_print_cost_calculator)
   <br/>
   A small Flutter Web application for estiamting the cost of 3D Printed items.
   <br/>

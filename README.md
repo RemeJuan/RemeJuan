@@ -6,8 +6,6 @@ Outside of work I really enjoy Mountain Biking, Trail Running, Hiking and in gen
 
 You can take a look at my [website](https://remelehane.dev) for more details
 
-[![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemeJuan&count_private=true&show_icons=true)](https://wakatime.com/@RemeJuan)
-
 <h2>Current Side Projects:</h2>  
 
 **3D Print Cost Calculator:**
@@ -73,11 +71,3 @@ You can take a look at my [website](https://remelehane.dev) for more details
 
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()
 [![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)]()
-
-<h2>Misc:</h2>
-
-![](https://green-wall.leoku.dev/api/og/share/RemeJuan)
-
-[![Reme's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RemeJuan&layout=compact)](https://wakatime.com/@RemeJuan)
-
-

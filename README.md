@@ -29,11 +29,11 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <h2>Some recent articles:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Three AI Agents, One Spec](https://remejuan.substack.com/p/three-ai-agents-one-spec)
 - [The Space Between Intention and Impact](https://remejuan.substack.com/p/the-space-between-intention-and-impact)
 - [The Weight of the First Word](https://remejuan.substack.com/p/the-weight-of-the-first-word)
 - [When Not Having the Answer Is the Answer](https://remejuan.substack.com/p/when-not-having-the-answer-is-the)
 - [The Courage to Let Silence Do the Work](https://remejuan.substack.com/p/the-courage-to-let-silence-do-the)
-- [Guiding Without Owning](https://remejuan.substack.com/p/guiding-without-owning)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>

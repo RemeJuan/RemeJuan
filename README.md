@@ -31,9 +31,9 @@ You can take a look at my [website](https://remelehane.dev) for more details
 <!-- BLOG-POST-LIST:START -->
 - [The Most Useful AI Workflow I’ve Built Isn’t About Writing Code](https://remejuan.substack.com/p/the-most-useful-ai-workflow-ive-built)
 - [Three AI Agents, One Spec](https://remejuan.substack.com/p/three-ai-agents-one-spec)
-- [How to Create Psychological Safety Without Lowering the Bar](https://remejuan.substack.com/p/how-to-create-psychological-safety)
-- [Setting Feedback Up for Success — Before the Conversation Even Starts](https://remejuan.substack.com/p/setting-feedback-up-for-success-before)
 - [The Art of Receiving Feedback Without Losing Yourself](https://remejuan.substack.com/p/the-art-of-receiving-feedback-without)
+- [Setting Feedback Up for Success — Before the Conversation Even Starts](https://remejuan.substack.com/p/setting-feedback-up-for-success-before)
+- [How to Create Psychological Safety Without Lowering the Bar](https://remejuan.substack.com/p/how-to-create-psychological-safety)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Technologies:</h2>
